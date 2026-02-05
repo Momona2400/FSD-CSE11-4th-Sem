@@ -1,3 +1,5 @@
+//variable game 2
+
 let num = 100;
 let str = "hello world";
 let und;

@@ -1,3 +1,5 @@
+//switch case 
+
 const num = 100;
 
 switch (num) {
