@@ -1,5 +1,4 @@
-//deep copy 
-
+//object shallow copy
 let user={
     name:"John",
     age:30,
